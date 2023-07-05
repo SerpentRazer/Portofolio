@@ -1,0 +1,8 @@
+1.Cross-site scripting - immune.
+2.Sql Injection - Immune (on site injection
+ command lines not allowed).
+3.Can't use brute force attack, no account
+ creation feature.
+4.It's possible the manipulation of cookies but useless
+ without any account feature.
+
