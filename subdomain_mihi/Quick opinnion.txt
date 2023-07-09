@@ -1,0 +1,11 @@
+-Porturile scanate folosesc protocolul TTL ceea ce
+face aproape imposibil de detectat serviciile care
+ruleaza prin intermediul lor, iar cele blocate de firewall
+sunt aproape invizibile.(smart idea)
+-Also anti flooding, ceea ce inseamna ca dupa un timp
+sterge pachetele de date, ceea ce face manipularea informatiilor 
+mai usor, respectiv trafic mai eficient.
+-XSS si SQL free deoarece nu exista resursele necesare, stii tu la ce ma refer ;)
+
+
+
